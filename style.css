@@ -4,7 +4,9 @@ p{
 }
 
 h1{
-    color: brown;
+    color:black;
+    font-size: 40px;
+    background-color: aqua;
 }
 
 h3{
